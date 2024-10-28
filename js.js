@@ -14,7 +14,7 @@ function gsapEffect() {
     });
 
     gsap.from(".rightPanel", {
-        delay: 0.5,
+        delay: 0.6,
         x: 100,
         duration: 0.5,
 
