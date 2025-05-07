@@ -2,7 +2,7 @@
 
 A sleek and minimalist landing page crafted using only **HTML** and **CSS** – no JavaScript involved.
 
-
+## view page (https://aadi81.github.io/Deep-Thought-landing-page/)
 ## 🛠️ Tech Stack
 
 - HTML5  
